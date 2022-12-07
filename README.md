@@ -15,6 +15,7 @@
   ## Installation
 
   To run the game, you must have Python installed on your computer. Start by cloning the repo, ```git clone http://github/guitarkeegan/space-invaders```. You will also need to instal the playsound library ```pip install playsound```. Turtle comes with installations of python, but if it doesn't work, try ```pip install turtle```. Then, open the project up in your favorite IDE and run the program!
+  Controls: , => left    . => right    f => fire laser
 
   ## Usage
 
